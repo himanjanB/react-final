@@ -22,28 +22,6 @@ A modern, responsive, and minimal personal portfolio built using **React.js** an
 
 ---
 
-## 🏗️ Project Structure
-
-react-final/
-├── client/                  # React frontend (your portfolio UI)
-│   ├── public/
-│   │   └── profile.jpg      # Your profile image
-│   ├── src/
-│   │   ├── components/      # UI components (optional separation)
-│   │   └── App.tsx          # Main entry component (TechPortfolio)
-│   └── package.json
-│
-├── server/                  # Express backend for skills & projects API
-│   ├── controllers/         # API logic for handling requests
-│   ├── routes/              # Route definitions
-│   ├── services/            # Supabase integration
-│   ├── .env                 # Supabase keys (not checked in)
-│   └── index.js             # Express app entry
-│
-└── README.md                # Project documentation
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
