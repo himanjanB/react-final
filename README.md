@@ -18,7 +18,7 @@ A modern, responsive, and minimal personal portfolio built using **React.js** an
 
 ## 📸 Preview
 
-![img.png](public/img.png)
+[Himanjan Portfolio.pdf](public/Himanjan%20Portfolio.pdf)
 
 ---
 
